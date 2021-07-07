@@ -1,0 +1,27 @@
+title:Prova
+author:him
+sinoxis:Desc
+genre:FANTASY
+personal judgment:MMMH
+data pubblicazione:12-04-2014 11:20
+
+title:Prova2
+author:her
+sinoxis:Desc2
+genre:HORROR
+personal judgment:EXCELLENT
+data pubblicazione:13-04-2014 11:20
+
+title:Prova3
+author:shim
+sinoxis:Desc3
+genre:NOVEL
+personal judgment:GOOD
+data pubblicazione:14-04-2014 11:20
+
+title:Prova4
+author:it
+sinoxis:Desc4
+genre:LITERATURE
+personal judgment:BAD
+data pubblicazione:15-04-2014 11:20
